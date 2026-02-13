@@ -1,1 +1,2 @@
 # Pulse_SIBATHON26
+HealthTracker is a web-based personal health monitoring system that allows users to record daily health metrics such as weight, blood pressure, sugar level, sleep, and exercise. Instead of waiting for illness, users can track trends and receive early alerts based on abnormal values. Our platform promotes preventive healthcare using simple technology like Java, MySQL, and interactive dashboards. HealthTrack empowers individuals to take control of their health through consistent monitoring and data-driven awareness.
